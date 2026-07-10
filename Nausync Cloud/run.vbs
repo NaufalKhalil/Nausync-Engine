@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "node src/index.js", 0, True
