@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td align="left">
-      <img src="./assets/logo/NauSync.svg" width="120">
+      <img src="./design/logo/icon.svg" width="120">
     </td>
     <td>
       <h1>NauSync Engine</h1>
