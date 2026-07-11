@@ -1,0 +1,153 @@
+{"level":30,"time":1783709354998,"pid":9428,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:9428) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783709374532,"pid":9428,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783709375789,"pid":9428,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783709399606,"pid":9428,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783709408224,"pid":9428,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: restart"}
+{"level":30,"time":1783709748237,"pid":9208,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:9208) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783709750844,"pid":9208,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783709752150,"pid":9208,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783709756483,"pid":9208,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783709763010,"pid":9208,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: restart"}
+{"level":30,"time":1783709895074,"pid":7128,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:7128) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783709902717,"pid":7128,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783709906787,"pid":7128,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783709907201,"pid":7128,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783709913241,"pid":7128,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783709927902,"pid":7128,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: restart"}
+{"level":30,"time":1783710045144,"pid":8904,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:8904) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783710047207,"pid":8904,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783710048536,"pid":8904,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783710054710,"pid":8904,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783710072697,"pid":8904,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: restart"}
+{"level":30,"time":1783710199721,"pid":6636,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:6636) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783710203811,"pid":6636,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783710205106,"pid":6636,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783710211990,"pid":6636,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783710230741,"pid":6636,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: mode hemat"}
+{"level":30,"time":1783710313046,"pid":6636,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: shutdown"}
+{"level":30,"time":1783710669091,"pid":6412,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:6412) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783710688639,"pid":6412,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783710689928,"pid":6412,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783710709915,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: mode server"}
+{"level":30,"time":1783711447706,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783711500386,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd Download"}
+{"level":30,"time":1783711505082,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783711529440,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd Project"}
+{"level":30,"time":1783711536460,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783711540359,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd Project"}
+{"level":30,"time":1783711544111,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783711564291,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd \"Data Siswa\""}
+{"level":30,"time":1783711605113,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783711640294,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: preview \"Nilai TKA.jpeg\""}
+{"level":30,"time":1783711670713,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783711720635,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783711754479,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd \"Berkas Pendaftaran Ulang Mahasiswa Baru Politeknik Negeri Medan\""}
+{"level":30,"time":1783711758304,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: lost"}
+{"level":30,"time":1783711761418,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783711896764,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: download \"Jadwal SNBP NON KIP-K 2026.jpg\""}
+{"level":30,"time":1783711955461,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: download \"Berkas Yang Perlu di siapkan.txt\""}
+{"level":30,"time":1783712049282,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783712062136,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .. .."}
+{"level":30,"time":1783712086118,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783712100535,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783712106067,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783712112844,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783712128408,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783712131840,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783712136024,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783712151066,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd Font"}
+{"level":30,"time":1783712168285,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783712478780,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783712484321,"pid":6412,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: shutdown"}
+{"level":30,"time":1783742514522,"pid":5356,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:5356) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783742550554,"pid":5356,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783742551811,"pid":5356,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783742557741,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783742626863,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: mode server"}
+{"level":30,"time":1783743133117,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd Wallpaper"}
+{"level":30,"time":1783743135223,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783743153289,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: preview Frieren.jpg"}
+{"level":30,"time":1783743166719,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: clear"}
+{"level":30,"time":1783743197386,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783743479769,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783743534260,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: preview \"Jangan Lupa Untuk Corat Coret.png\""}
+{"level":30,"time":1783743565629,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: clear"}
+{"level":30,"time":1783743570267,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783743583413,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: preview Wallpaper"}
+{"level":30,"time":1783746074121,"pid":5356,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: restart"}
+{"level":30,"time":1783746185666,"pid":8760,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:8760) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783746204255,"pid":8760,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783746205497,"pid":8760,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783746967764,"pid":9820,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:9820) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783747003439,"pid":9820,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783747004923,"pid":9820,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783747013728,"pid":9820,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783747025099,"pid":9820,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
+{"level":30,"time":1783747038688,"pid":9820,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
+{"level":30,"time":1783747057458,"pid":9820,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
+{"level":30,"time":1783747070931,"pid":9820,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
+{"level":30,"time":1783747182842,"pid":9820,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
+{"level":30,"time":1783747215848,"pid":9820,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: mode"}
+{"level":30,"time":1783747219832,"pid":9820,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: mode server"}
+{"level":30,"time":1783747423979,"pid":15056,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:15056) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783747425091,"pid":15056,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783747426256,"pid":15056,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783747433868,"pid":15056,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783747438428,"pid":15056,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
+{"level":30,"time":1783747465643,"pid":15056,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
+{"level":30,"time":1783747488685,"pid":15056,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
+{"level":30,"time":1783747646852,"pid":15056,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: dc .."}
+{"level":30,"time":1783747653504,"pid":15056,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783747659263,"pid":15056,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783747663414,"pid":15056,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783747675523,"pid":15056,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd Project"}
+{"level":30,"time":1783748044403,"pid":13540,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:13540) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783748079023,"pid":13540,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783748080173,"pid":13540,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783748093344,"pid":13540,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783748095102,"pid":13540,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783748100518,"pid":13540,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783748107339,"pid":13540,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783748112793,"pid":13540,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .. .. .."}
+{"level":30,"time":1783749269951,"pid":5308,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:5308) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783749270950,"pid":5308,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783749272315,"pid":5308,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783749278658,"pid":5308,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: help"}
+{"level":30,"time":1783749298453,"pid":5308,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783749311456,"pid":5308,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd D"}
+{"level":30,"time":1783749314628,"pid":5308,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: list"}
+{"level":30,"time":1783749349558,"pid":5308,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783749355680,"pid":5308,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783749361702,"pid":5308,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: cd .."}
+{"level":30,"time":1783749365226,"pid":5308,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
+{"level":30,"time":1783749391783,"pid":5308,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: restart"}
+{"level":30,"time":1783749503685,"pid":5920,"hostname":"NauTcn","msg":"Bot Nausync Cloud sukses terhubung ke Discord sebagai: Nausync Cloud#2669"}
+(node:5920) DeprecationWarning: The ready event has been renamed to clientReady to distinguish it from the gateway READY event and will only emit under that name in v15. Please use clientReady instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+{"level":30,"time":1783749505596,"pid":5920,"hostname":"NauTcn","msg":"rclone OK, remote Google Drive terhubung."}
+{"level":30,"time":1783749506739,"pid":5920,"hostname":"NauTcn","msg":"Notifikasi startup sukses dikirim ke DM owner."}
+{"level":30,"time":1783750407747,"pid":5920,"hostname":"NauTcn","msg":"Command diterima dari owner via Discord: baterai"}
