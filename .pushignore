@@ -44,3 +44,4 @@ reports/
 history/
 backup/
 bot-log.txt
+pin.store.json

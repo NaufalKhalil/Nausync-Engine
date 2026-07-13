@@ -1,21 +1,76 @@
 # Token Bot yang didapatkan dari Discord Developer Portal
+
 DISCORD_TOKEN=???
 
 # ID Akun Discord Pribadi Anda
+
 DISCORD_OWNER_ID=???
+
+# Secure Path
+
+SECURE_ENV_PATH=???
 
 # Daftar folder yang boleh diakses bot, format: Nama1=Path1;Nama2=Path2;...
 # - "Nama" jadi nama folder virtual level teratas di bot (ketik "list" untuk lihat)
 # - Path boleh pakai "/" (lebih aman dari salah ketik backslash di Windows)
 # - Boleh mengandung spasi tanpa tanda kutip
-ALLOWED_ROOTS=D=D:/;ibisPaint=C:/Users/Naufal Khalil/ibisPaint;Music=C:/Users/Naufal Khalil/Music;Documents=C:/Users/Naufal Khalil/Documents;Downloads=C:/Users/Naufal Khalil/Downloads;Pictures=C:/Users/Naufal Khalil/Pictures;SD=E:/
+# - Ditulis memanjang ke bawah (dibungkus "...") biar gampang nambah/hapus baris,
+#   tetap wajib diakhiri ";" di tiap baris (termasuk baris terakhir)
+
+ALLOWED_ROOTS="D=D:/;
+ibisPaint=C:/Users/Naufal Khalil/ibisPaint;
+Music=C:/Users/Naufal Khalil/Music;
+Documents=C:/Users/Naufal Khalil/Documents;
+Downloads=C:/Users/Naufal Khalil/Downloads;
+Pictures=C:/Users/Naufal Khalil/Pictures;
+SD=E:/;
+"
 
 # (Opsional) Daftar folder/file yang DILARANG diakses bot, walaupun ada di
 # dalam salah satu ALLOWED_ROOTS di atas. Format: Path1;Path2;...
 # Berguna buat blokir folder project bot ini sendiri (berisi .env dengan
 # token Discord & kredensial lain) supaya tidak bisa dibuka/copy/delete/
 # download lewat command bot, meskipun root "D" mencakup seluruh drive D:.
-BLOCKED_PATHS=D:/Project/Coding/Nausync Engine;C:\Users\Naufal Khalil\Documents\Default.rdp;D:\WpSystem;D:\WindowsApps;D:\SteamLibrary;D:\Program Files;D:\Apps\Git;D:\WpSystem;D:\XboxGames 
+
+BLOCKED_PATHS="D:/Project/Coding/Nausync Engine;
+C:/Users/Naufal Khalil/Documents/Default.rdp;
+C:/Users/Naufal Khalil/AppData;
+D:/WpSystem;
+D:/WindowsApps;
+D:/SteamLibrary;
+D:/Program Files;
+D:/Apps/Git;
+D:/XboxGames;
+D:/.GamingRoot;
+D:/$RECYCLE.BIN;
+C:/Users/Naufal Khalil/Documents/PowerShell;
+D:/System Volume Information;
+D:/DumpStack.log.tmp;
+D:/pagefile.sys;
+E:/System Volume Information;
+C:/Users/Naufal Khalil/Documents/Criterion Games;
+C:/Users/Naufal Khalil/Documents/desktop.ini;
+C:/Users/Naufal Khalil/Documents/My Music;
+C:/Users/Naufal Khalil/Documents/My Pictures;
+C:/Users/Naufal Khalil/Documents/My Videos;
+C:/Users/Naufal Khalil/Documents/Nausync;
+"
+
+# (Opsional) Daftar folder yang boleh KELIHATAN namanya lewat "list" tapi
+# WAJIB PIN + kirim email alert kalau mau di-"preview". Beda dengan
+# BLOCKED_PATHS yang disembunyikan total dari bot. Format sama seperti
+# BLOCKED_PATHS: Path1;Path2;...
+CONFIDENTIAL_PATHS="C:/Users/Naufal Khalil/Documents;
+D:/Project/Pdf;
+D:/Project/Surat Penting;
+D:/Project/Txt;
+D:/Project/Coding/Nausync Engine;
+D:/Project/Data Siswa;
+C:/Users/Naufal Khalil/Documents/AYAH;
+D:/Project/Ms Power Point;
+D:/Project/Ms Word
+"
+
 # Nama remote rclone untuk Google Drive
 RCLONE_REMOTE=gdrive
 RCLONE_STAGING_FOLDER=nausync-staging

@@ -1,1 +1,4 @@
 taskkill /f /im node.exe
+
+
+nah sudah bisa. sekarang tambahkan fitur command "network" untuk melihat status laptop sedang tersambung ke jaringan apa wifi/lan dan apa nama router/wifi nya dan sedang dalam network private atau public + bisa ganti dari command network ..... seperti command mode
